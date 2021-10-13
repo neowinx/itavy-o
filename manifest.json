@@ -5,7 +5,7 @@
 
   "content_scripts": [
     {
-      "matches": [ "https://www.secure.itau.com.py/" ],
+      "matches": [ "https://www.secure.itau.com.py/24horasinternet/Login/Paso2" ],
       "js": [ "/content_script.js" ]
     }
   ]
