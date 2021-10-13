@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "itavy-o",
+  "version": "0.0.1",
+
+  "content_scripts": [
+    {
+      "matches": [ "https://www.secure.itau.com.py/" ],
+      "js": [ "/content_script.js" ]
+    }
+  ]
+}
