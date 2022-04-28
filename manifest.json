@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "name": "itavy-o",
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "content_scripts": [
     {
-      "matches": [ "https://www.secure.itau.com.py/24horasinternet/Login/Paso2" ],
+      "matches": [ "https://www.secure.itau.com.py/24horasinternet/*" ],
       "js": [ "/content_script.js" ]
     }
   ]
