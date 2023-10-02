@@ -11,11 +11,11 @@ and potential eavesdroppers to catch the pin when clicking the numbers
 
 ### Firefox
 
-Go to the [Mozzilla Addons](https://addons.mozilla.org/en-US/firefox/addon/itavy-o/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) and click on the **Add to Firefox** button
+Go to the [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/itavy-o/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) and click on the **Add to Firefox** button
 
 ### Build yourself
 
-Just zip the adecuate files or use something like [web-ext](https://www.npmjs.com/package/web-ext) top help you with these tasks
+Just zip the adecuate files or use something like [web-ext](https://www.npmjs.com/package/web-ext) to help you with these tasks
 
 ```bash
 npm i -g web-ext
